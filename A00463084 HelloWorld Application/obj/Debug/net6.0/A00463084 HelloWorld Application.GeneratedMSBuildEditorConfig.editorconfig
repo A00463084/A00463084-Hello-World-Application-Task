@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = A00463084_HelloWorld_Application
+build_property.ProjectDir = C:\Users\franc\Documents\Francis SMU\MCDA 5510 SOFTWARE\Task 3 Hello World\A00463084-Hello-World-Application-Task\A00463084 HelloWorld Application\
